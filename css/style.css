@@ -8,9 +8,8 @@ background: linear-gradient(to right, #4e4376, #2b5876);
      background-color:rgba(1,1,1,.90);
     background-size: cover;
     background-position: center;
-    height: 787px;
-    width: 417px;
-    
+    height:90%;
+    width:25%;
     position: absolute;
     top: 50%;
     left: 50%;
@@ -19,10 +18,10 @@ background: linear-gradient(to right, #4e4376, #2b5876);
 }
 .screen{
     background: white;
-    height: 646px;
-    width: 328px;
+    height: 85%;
     position: absolute;
     top: 50%;
+    width:85%;
     left: 50%;
     transform: translate(-50%,-50%);
     overflow-y: scroll;
